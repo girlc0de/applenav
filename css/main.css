@@ -1,0 +1,13 @@
+ul {
+	background-color: black;
+	color: white;
+	/*display: inline-block;	*/
+}
+
+li {
+	display: inline-block;
+	padding: 20px;
+	font-family: helvetica;
+	font-size: 15px;
+	letter-spacing: 6px; 
+}
